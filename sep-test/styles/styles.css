@@ -1,0 +1,211 @@
+#cover_left {
+    float: left;
+    padding-top: 10px;
+    padding-right: 10px;
+    width: 25%;
+    height: 100px;
+    margin-bottom: 10px;
+}
+
+#cover_right {
+    float: right;
+    padding-top: 10px;
+    width: 40%;
+    height: 100px;
+    margin-bottom: 10px;
+    margin-right: 15px;
+}
+
+
+#navibar {
+    clear: both;
+    padding-bottom: 20px;
+    background-color: darkgrey;
+    padding: 20px;
+    text-align: center;
+    width: 95.9%;
+}
+
+.navi_links {
+    text-decoration: none;
+    border: 1px solid black;
+    padding: 5px;
+    margin-right: 20px;
+    font-family: sans-serif;
+}
+
+a:link,
+a:visited {
+    color: black;
+}
+
+a:hover {
+    color: white;
+}
+
+body {
+    padding-left: 10px;
+    background-color: gray;
+}
+
+#top_left {
+    padding-left: 20px;
+    padding-top: 20px;
+    height: 172px;
+    width: 25%;
+    background-color: slategray;
+}
+
+#top_right {
+    padding-left: 20px;
+    padding-top: 2px;
+    height: 190px;
+    width: 70.9%;
+    background-color: lightgray;
+}
+
+
+.top {
+    float: left;
+    padding-left: 20px;
+    height: 170px;
+
+}
+
+
+#bottom_left {
+    padding-left: 20px;
+    padding-top: 2px;
+    height: 170px;
+    width: 25%;
+    background-color: lightgray;
+
+}
+
+#bottom_right {
+    padding-left: 20px;
+    padding-top: 2px;
+    height: 170px;
+    width: 70.9%;
+    background-color: slategray;
+
+}
+
+
+.bottom {
+    float: left;
+    padding-left: 20px;
+    height: 170px;
+    margin-bottom: 50px;
+
+}
+
+
+#footer {
+    left: 0;
+    bottom: 0;
+    width: 98.9%;
+    background-color: darkgray;
+    clear: both;
+}
+
+.text_page {
+    clear: both;
+    background-color: darkgray;
+    width: 98.9%;
+    height: 550px;
+}
+
+
+#text_page {
+    background-color: lightgray;
+
+}
+
+
+#chapel_text {
+    width: 39%;
+}
+
+.imgchapel_text {
+    float: left;
+    height: 304px;
+    background-color: darkorange;
+    padding: 10px;
+
+}
+
+#imgchapel {
+    width: 20%;
+}
+
+#title {
+    background-color: lightgray;
+    padding: 10px;
+    width: 97.4%;
+    clear: both;
+}
+
+#course_pro {
+    float: right;
+    width: 35%;
+    border: solid;
+    border-color: white;
+    border-width: 2px;
+    margin-right: 14px;
+    padding: 10px;
+    overflow: auto;
+    height: 300px;
+    background-color: lightgray;
+}
+
+
+#imgcounselor {
+    height: 150px;
+}
+
+#consolors_title {
+    clear: both;
+    background-color: lightgray;
+    padding: 10px;
+    width: 97.4%
+}
+
+#hanne {
+    width: 32.95%;
+
+    margin: auto;
+
+}
+
+#jacob {
+    width: 33%;
+
+}
+
+#musli {
+    width: 33%;
+
+}
+
+.counselors {
+    float: left;
+    background-color: lightgray;
+    margin-bottom: 100px;
+}
+
+#rules_title {
+    background-color: lightgray;
+}
+
+#all_counselors {}
+
+#schedule_title {
+    background-color: lightgray;
+    padding.
+}
+
+#schedule {
+    background-color: lightgray;
+    padding-top: 10px;
+}
